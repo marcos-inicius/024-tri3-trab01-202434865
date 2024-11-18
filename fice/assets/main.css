@@ -1,0 +1,47 @@
+.XV{
+    width: 350px;
+    height: 94px;
+   margin-left: 70vw;
+
+}
+.tricampeao{
+    margin-left: 5vw;
+    width: 0;
+    height: 0;
+    border-top: 20px solid transparent;
+    border-bottom: 20px solid transparent;
+    border-right: 95vw solid green; 
+}   
+.tricampeao2{
+    margin-top: 1vh;
+    margin-left: 10vw;
+    width: 0;
+    height: 0;
+    border-top: 20px solid transparent;
+    border-bottom: 20px solid transparent;
+    border-right: 90vw solid rgb(0, 88, 0); 
+
+}
+.container{
+    display: flex;
+}
+.coluna{
+    margin: 10px;
+    width: 50vw;
+}
+h1{
+text-align: center;
+    
+}
+h2{
+text-align: center;}
+h3{
+    text-align: center;
+    
+}
+p{
+    text-align: justify;
+}
+.Pcentralizado{
+    text-align: center;
+}
